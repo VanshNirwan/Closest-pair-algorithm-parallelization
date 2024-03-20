@@ -1,12 +1,10 @@
 
-
 //included the required header file
 #include <bits/stdc++.h>
 using namespace std;
 
 //Mergesort based on the y-coordinate of the points
 
-//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 void MergeY(vector<pair<double, double>> &arr, int low, int mid, int high) //Merge function based on y-coordinate
 {
